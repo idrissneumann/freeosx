@@ -1,5 +1,11 @@
 # Free command for mac
 
+## Git repo
+
+* Main repo: https://gitlab.comwork.io/oss/freeosx
+* Github mirror backup: https://github.com/idrissneumann/freeosx
+* Gitlab mirror backup: https://gitlab.com/ineumann/freeosx
+
 ## How to install it
 
 You can add install with the following procedure:
