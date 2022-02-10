@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_PATH="/home/centos/freeosx/"
+REPO_PATH="${PROJECT_HOME}/freeosx/"
 
 cd "${REPO_PATH}" && git pull origin main || :
 git push github main 
