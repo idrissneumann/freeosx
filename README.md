@@ -5,6 +5,7 @@
 * Main repo: https://gitlab.comwork.io/oss/freeosx
 * Github mirror backup: https://github.com/idrissneumann/freeosx
 * Gitlab mirror backup: https://gitlab.com/ineumann/freeosx
+* Bitbucket mirror backup: https://bitbucket.org/idrissneumann/freeosx
 
 ## How to install it
 
